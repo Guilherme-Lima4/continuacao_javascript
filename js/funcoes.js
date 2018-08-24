@@ -6,11 +6,11 @@ function imagemTroca() {
 }	
 
 function trocaFonteMaior() {
-	document.getElementById("demo").style.fontSize="50px";
+	document.getElementById("demo").style.fontSize="35px";
 }	
 
 function trocaFonteMenor() {
-	document.getElementById("demo").style.fontSize="25px";
+	document.getElementById("demo").style.fontSize="16px";
 }	
 
 function olcutarElemento() {

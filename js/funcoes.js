@@ -20,3 +20,8 @@ function olcutarElemento() {
 function naoOlcutarElemento() {
 	document.getElementById("demo").style.display="block";
 }	
+
+function calcular() {
+	document.getElementById("demo").innerHTML = 10 + 5;
+}
+
